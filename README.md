@@ -153,7 +153,7 @@
 - Nginx Applications
 - User Management Web Application built using Spring Boot using MySQL as underlying storage
 
-## What will students learn in your course?
+## What cover in ?
 - You will learn to build Azure AKS Production grade clusters using Azure AKS CLI
 - You will learn terraform from basics and create terraform manifests for provisioning Azure AKS Production grade clusters
 - You will learn to provision Azure AKS Clusters using Terraform and Azure DevOps. 
@@ -174,22 +174,5 @@
 - You will learn to integrate Azure AKS with Azure Active Directory for AKS Admins to be created managed in Azure Active Directory
 - You will learn Kubernetes RBAC concepts like role, role-binding, cluster role, cluster role binding in combination with Azure AD for Azure AKS granular level access
 
-## Are there any course requirements or prerequisites?
-- You must have an Azure Cloud account to follow with me for hands-on activities.
-- You dont need to have any basic Docker or kubernetes knowledge to start this course.  
-
-
-## Who are your target students?
-- Azure Architects or Sysadmins or Developers who are planning to master Azure Kubernetes Service (AKS) for running applications on Kubernetes
-- Any beginner who is interested in learning kubernetes on cloud using Azure AKS. 
-- Any beginner who is interested in learning Azure DevOps, Terraform to provision Azure Kubernetes Clusters
-
 ## Github Repositories used for this course
-- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/Azure-AKS/azure-aks-kubernetes-masterclass)
-- [Azure DevOps for Kubernetes Workloads running on Azure AKS Cluster](https://github.com/Azure-AKS/azure-devops-github-acr-aks-app1)
-- [Provision Azure AKS Cluster using Terraform and Azure DevOps](https://github.com/Azure-AKS/azure-devops-aks-kubernetes-terraform-pipeline)
-- [Docker Fundamentals](https://github.com/Azure-AKS/docker-fundamentals)
-- [Presentation with 250 Slides outlining the various architectures and designs we are going to do in this course](https://github.com/Azure-AKS/azure-aks-kubernetes-masterclass/tree/master/ppt-presentation)
-- **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
-
-
+- [Azure Kubernetes Service with Azure DevOps and Terraform](https://github.com/Azure-AKS/azure-aks-kubernetes)
